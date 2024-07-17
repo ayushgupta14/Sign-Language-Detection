@@ -1,0 +1,12 @@
+0 Hello
+1 Thankyou
+2 Yes
+3 No
+4 Good
+5 Bad
+6 Goodluck
+7 Iloveyou
+8 Livelong
+9 Peace
+10 Please
+11 Okay
